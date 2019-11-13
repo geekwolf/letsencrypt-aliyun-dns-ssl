@@ -6,6 +6,7 @@ Let’s Encrypt通配符证书申请，只能用DNS plugins的验证方式。其
 
 ## 使用步骤
 ### 一、下载代码
+From https://github.com/broly8/letsencrypt-aliyun-dns-manual-hook.git 
 ```
 git clone https://github.com/geekwolf/letsencrypt-aliyun-dns-ssl.git
 ```
